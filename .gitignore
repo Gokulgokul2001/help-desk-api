@@ -1,0 +1,44 @@
+# Maven
+target/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploaded files
+uploads/
+
+# Local environment/configuration
+.env
+
+# Local application configuration
+application-local.properties
+application-local.yml
+
+# Temporary files
+tmp/
+temp/
+
+# Java
+*.class
+
+# Maven wrapper generated files
+.mvn/wrapper/maven-wrapper.jar
